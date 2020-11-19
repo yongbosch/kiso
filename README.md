@@ -24,3 +24,5 @@ Please note that (for now) some of the following links require additional accoun
 * Release notes (inkl. features, supported reference HW and known issues): [release notes](https://github.com/eclipse/kiso/blob/master/RELEASE_NOTES.md)
 * Continuous integration (automated testing results): [Jenkins dashboard](https://ci.eclipse.org/kiso)
 * Eclipse Foundation project page: [Eclipse Kiso](https://projects.eclipse.org/projects/iot.kiso)
+
+
